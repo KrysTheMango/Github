@@ -1,0 +1,15 @@
+img {
+
+    margin-top: 10rem;
+
+    margin-left: 10rem;
+
+    border-top: 40px solid orange;
+
+    border-bottom: 40px solid orange;
+
+    border-right: 40px dashed orange;
+
+    border-left: 40px dashed orange;;
+
+}
