@@ -1,0 +1,87 @@
+body {
+margin: 0 auto;
+width: 90%;
+background-image:url(../imatges/fons.gif);
+}
+
+p{padding-left: 2%;
+padding-right: 2%;
+}
+
+h1{
+text-align: right;
+padding-right: 2%;
+font-size: 2.5em;
+color: #ffffff;
+}
+
+h2{
+font-size: 2em;
+}
+
+#capcalera{
+background-image:url(../imatges/sos.png);
+color:#ffffff;
+padding-top: 7%;
+padding-bottom: 7%;
+}
+
+
+#lateral{
+background-color: #ffcc89;
+color: #88bcff;
+width: 25%;
+float: right;
+}
+
+#contingut{
+background-color: #fff;
+color: #333;
+width: 75%;
+margin-left: 3%;
+margin-right: 3%;
+}
+
+#peu {
+background-color: #709c34;
+color: #fff;
+text-align: center;
+clear: right;
+padding-top: 1%;
+padding-bottom: 1%;
+}
+
+#pagina{
+background-color: #fff;
+border-left: 3px solid #666;
+border-right: 3px solid #666;
+border-bottom: 3px solid #666;
+border-top: 3px solid #666;
+margin-top: 2%;
+margin-bottom: 2%;
+}
+
+.imatge{
+display: block;
+margin: 20px auto;
+border: 2px solid #ccc;
+padding: 3px;
+}
+
+.lletra{font-size:0.00000001em;}
+
+a:link {  
+    color: green;  
+}  
+  
+a:visited {  
+    color: olive;  
+}  
+  
+a:hover {  
+    color: teal;  
+}  
+  
+a:active{  
+    color: yellow;  
+}  
